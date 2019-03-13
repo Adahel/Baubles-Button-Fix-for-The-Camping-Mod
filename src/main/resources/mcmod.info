@@ -1,0 +1,17 @@
+[
+{
+  "modid": "BaublesFix",
+  "name": "Baubles Button Fix for The Camping Mod",
+  "description": "Fix the camping player inventory: Baubles button",
+  "version": "1.0",
+  "mcversion": "1.8.9",
+  "logoFile": "",
+  "url": "https://github.com/Adahel/Baubles-Button-Fix-for-The-Camping-Mod",
+  "updateUrl": "",
+  "authorList": ["Adahel"],
+  "credits": "",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
